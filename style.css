@@ -36,3 +36,4 @@ article+article{border-top:1px solid var(--line)}
 
 .portrait{display:block;width:100%;height:auto;border-radius:.3rem;margin-bottom:.65rem}
 @media(max-width:620px){.portrait{width:min(11rem,100%)}}
+.research-links{display:flex;flex-wrap:wrap;column-gap:1.5rem;row-gap:.35rem}
